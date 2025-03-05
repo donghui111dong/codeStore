@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZKWorkerService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01fbd1211f1e09cf7c5a321dba29da43c064713e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZKWorkerService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZKWorkerService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
